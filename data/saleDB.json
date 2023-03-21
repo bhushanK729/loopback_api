@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Sale": 5
+  },
+  "models": {
+    "Sale": {
+      "1": "{\"product_id\":1,\"quantity\":1,\"total_price\":10,\"sale_date\":\"2023-03-16T16:50:44.571Z\",\"productId\":1,\"id\":1}",
+      "2": "{\"product_id\":2,\"quantity\":2,\"total_price\":40,\"sale_date\":\"2023-03-16T16:50:44.571Z\",\"productId\":2,\"id\":2}",
+      "3": "{\"product_id\":2,\"quantity\":2,\"total_price\":40,\"sale_date\":\"2023-03-16T16:50:44.571Z\",\"productId\":2,\"id\":3}",
+      "4": "{\"product_id\":3,\"quantity\":2,\"total_price\":60,\"sale_date\":\"2022-11-15T00:00:00.000Z\",\"productId\":3,\"id\":4}"
+    }
+  }
+}
